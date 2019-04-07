@@ -9,7 +9,6 @@ from werkzeug.security import check_password_hash, generate_password_hash
 
 from helpers import apology, login_required, lookup, usd
 ''' I am doing some changes'''
-''' I added some more changes'''
 # Configure application
 app = Flask(__name__)
 
